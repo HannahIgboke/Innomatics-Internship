@@ -13,6 +13,8 @@ With this study, the AMCAT team were able to gather concrete data with which the
 Following the study conducted in 2015 the AMCAT team were able to gather concrete data with which they hoped to understand what has become of candidates since they took part in the tests and find interesting patterns from the study.
 
 This analysis breaks down the objectives into two:
-Univariate and Bivariate analysis of variables
-Answers and conclusions to relevant hypothesis or questions.
 
+- Univariate and Bivariate analysis of variables
+- Answers and conclusions to relevant hypothesis or questions.
+
+Head over [here](https://github.com/HannahIgboke/Innomatics-Internship/blob/main/AMCAT%20Data%20Analysis.ipynb) to see the detailed step by step analysis using python. For a quick concise report of the results of the data analysis see this [report](https://github.com/HannahIgboke/Innomatics-Internship/blob/main/AMCAT%20data%20analysis%20report.pdf).
